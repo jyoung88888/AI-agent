@@ -1,0 +1,53 @@
+{
+  "announcement_title": "2022년도 중소기업 Net-Zero 기술혁신개발사업 지정공모과제 시행계획 공고",
+  "department": "중소벤처기업부",
+  "date_of_announcement": "2022년 5월 26일",
+  "project_purpose": "저탄소 신산업 분야 중소기업과 연구기관의 공동 기술개발 지원을 통해 중소기업의 탄소중립 기술경쟁력 확보",
+  "funding_size": "30억원, 8개 과제",
+  "funding_type": "지정공모",
+  "funding_areas": [
+    "저탄소 신유망 중소기업 육성",
+    "탄소중립 기술혁신 10대 핵심기술 분야"
+  ],
+  "target_organizations": [
+    "중소기업(주관연구개발기관)",
+    "연구기관(공동연구개발기관)"
+  ],
+  "support_details": {
+    "project_duration": "최대 3년",
+    "funding_limit": "30억원 이내 (최대 10억원/12개월)",
+    "government_support_ratio": "80% 이내"
+  },
+  "application_period": {
+    "announcement_period": "2022. 5. 26. ~ 2022. 6. 27.",
+    "online_submission_period": "2022. 6. 7. ~ 2022. 6. 27. 18:00까지"
+  },
+  "evaluation_criteria": {
+    "technology_score": 30,
+    "business_score": 20,
+    "technology_development_score": 20,
+    "effect_score": 15,
+    "self_execution_score": 5,
+    "policy_alignment_score": 10
+  },
+  "evaluation_procedure": "연구개발계획서 제출 후 토론식 대면평가 진행",
+  "application_method": "범부처통합연구지원시스템을 통한 연구개발계획서 온라인 제출",
+  "required_documents": [
+    "연구개발계획서",
+    "신용상태 조회동의서",
+    "청렴서약서",
+    "개인정보 이용 동의서",
+    "기술료 납부 계획서",
+    "온실가스 감축량 계산표"
+  ],
+  "contact_information": {
+    "general_inquiries": "중소벤처기업부, 기술정책과",
+    "application_inquiries": "중소기업기술정보진흥원, 기업협력사업실",
+    "helpline": "1357 (중소기업 통합콜센터)"
+  },
+  "workshop_details": {
+    "date": "2022. 6. 8. 14:00",
+    "location": "경기테크노파크 3동 1층 다목적실",
+    "online_option": "Zoom을 통한 온라인 설명회"
+  }
+}

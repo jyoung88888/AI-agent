@@ -1,0 +1,64 @@
+{
+  "business_name": "2022년도 중소기업 Net-Zero 기술혁신개발사업 지정공모과제",
+  "announcement_number": "중소벤처기업부 공고 제2022–351호",
+  "purpose": "저탄소 신산업 분야 중소·벤처기업과 연구기관의 공동 기술개발을 지원하여 탄소중립 기술경쟁력 확보",
+  "support_scale": {
+    "amount": "30억원",
+    "number_of_projects": 8,
+    "support_period": "최대 3년",
+    "support_limit": "최대 10억원/12개월",
+    "government_support_ratio": "80% 이내"
+  },
+  "eligible_applicants": [
+    "중소기업을 주관연구개발기관으로 하고, 연구기관을 공동연구개발기관으로 하는 2개 이상의 기관으로 구성된 컨소시엄"
+  ],
+  "support_type": "지정공모",
+  "support_fields": [
+    "탄소중립 기술혁신 10대 핵심기술 분야",
+    "온실가스 감축기술"
+  ],
+  "announcement_period": {
+    "start": "2022-05-26",
+    "end": "2022-06-27"
+  },
+  "submission_period": {
+    "start": "2022-06-07",
+    "end": "2022-06-27 18:00"
+  },
+  "evaluation_method": {
+    "evaluation_procedure": [
+      "기술개발 추진",
+      "협약체결",
+      "토론식 대면평가"
+    ],
+    "evaluation_criteria": {
+      "technical_quality": 30,
+      "business_viability": 20,
+      "technical_ability": 20,
+      "impact": 15,
+      "self_execution_plan": 5,
+      "policy_alignment": 10
+    },
+    "total_score": 100
+  },
+  "required_documents": [
+    "중소기업 기술개발지원 연구개발계획서",
+    "신용상태 조회동의서",
+    "중소기업기술개발사업 청렴서약서",
+    "개인정보 이용 동의서",
+    "온실가스 감축량 계산표"
+  ],
+  "contact_info": {
+    "business_overview": {
+      "organization": "중소벤처기업부 (기술정책과)",
+      "phone": "1357"
+    },
+    "specialized_agency": {
+      "organization": "중소기업기술정보진흥원 (기업협력사업실)",
+      "phone": "044-300-0657"
+    },
+    "submission_system_inquiries": {
+      "phone": "1877-2041"
+    }
+  }
+}
